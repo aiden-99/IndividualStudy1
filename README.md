@@ -7,7 +7,9 @@ multi-omics 데이터 분석 및 이를 이용한 AF 관련 유전자 추출
 
 
 분석과정에 사용한 논문
+
 Integrative Omics Approach to Identifying Genes Associated With Atrial Fibrillation
 
 사용 데이터
+
 2017 AFGen GWAS - https://kp4cd.org/node/558
